@@ -1,0 +1,143 @@
+body{
+    
+   background-color: white;
+    
+}
+    
+nav{
+    
+    background-color: lawngreen;
+    padding: 5px;
+    
+}
+
+nav ul{
+    
+    text-align: center;
+    font-size: 1.2em;
+    
+    
+    
+}
+nav ul li {
+    
+ list-style-type: none;
+  background-color: grey;
+display: inline;
+padding: 15px;
+border: 2px solid white;
+border border-radius: 10px;
+    
+    
+}
+
+nav ul li:hover {
+    
+    background-color: darkgray;
+    
+}
+
+nav ul li a {
+    
+   text-decoration: none;
+   color: white;
+    
+    
+    
+}
+
+         header {
+        
+     background-image: url(../images/GrowWellBanner3.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+     background-color: grey;
+     height:200px;
+     color:black;
+     border:1px solid black;
+    padding: 10px;
+        
+    }
+        
+    #content  {
+        
+        float: left;
+        width: 80%;
+        margin-right:  15px;
+        border: 1px solid grey;
+        
+    }   
+        
+
+  .col_detail  {
+    
+  column-count: 3;
+  column-rule: 1px solid white;
+  column-gap: 50px;
+  padding:2px;
+    
+    
+    
+}     
+
+footer {
+    
+  clear: both;
+  border: 5px solid white;
+  padding: 0;
+    margin: 0;
+ position:relative;
+ bottom: 0px;
+ width: 100%;
+ background-color: lawngreen;
+ text-align: center;   
+    
+    
+    
+    
+    
+    
+}
+        
+        
+        
+    }
+#AboutUs {
+    width: 80%;
+    float: left;
+}
+
+aside {
+    width: 17%;
+    float: right;
+}
+
+
+    
+
+
+#bigPic {
+    width: 75%;
+}
+
+.col_detail  {
+    
+  column-count: 3;
+  column-rule: 1px solid white;
+  column-gap: 50px;
+  padding:2px;
+    
+    
+    
+}     
+
+.col_detail  {
+    
+  column-count: 3;
+  column-rule: 1px solid white;
+  column-gap: 50px;
+  padding:2px;
+    
+    
+    
+}     
